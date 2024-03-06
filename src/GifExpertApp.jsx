@@ -20,7 +20,7 @@ export const GifExpertApp = () => {
 
     return (
         <>
-            <h1>GifEXpertApp</h1>
+            <h1>App de gifs</h1>
 
             <AddCategory
 
